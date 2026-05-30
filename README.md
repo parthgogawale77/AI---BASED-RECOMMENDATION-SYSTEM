@@ -27,3 +27,6 @@ The GenericUserBasedRecommender class combines the dataset, similarity calculati
 
 During execution, the system successfully recommends Product 104 to User 1 with a score of 5.0. This indicates that users with similar interests rated Product 104 highly, and therefore the system predicts that User 1 may also prefer it. The recommendation output demonstrates the successful implementation of collaborative filtering and intelligent prediction techniques.
 OUTPUT : 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/b80e99bb-f200-434d-92ba-79faa63b5be3" />
+
+This project shows how machine learning concepts can be integrated into Java applications through Apache Mahout. Although the implementation uses a small dataset for demonstration purposes, the same architecture can be expanded for real-world applications involving larger datasets and databases. Future improvements may include graphical user interfaces, hybrid recommendation techniques, real-time recommendations, and integration with online platforms. The project provides a practical understanding of AI-based recommendation systems and their importance in delivering personalized user experiences.
